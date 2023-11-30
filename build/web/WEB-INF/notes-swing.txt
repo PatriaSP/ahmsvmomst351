@@ -1,0 +1,3 @@
+https://www.mkyong.com/java/java-web-start-jnlp-tutorial-unofficial-guide/
+keytool -genkey -keystore JXAHMAS -alias ahmas
+password : AstraHonda2019!
